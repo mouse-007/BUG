@@ -10,7 +10,8 @@ node --max_old_space_size=2048 xxx.js
  + node v8.x+
  ___
 	```
-	 export NODE_OPTIONS=--max_old_space_size=2048
+	 export NODE_OPTIONS=--max_old_space_size=2048 // linux
+	 set NODE_OPTIONS=--max_old_space_size=2048 // window ，或者系统变量里添加NODE_OPTIONS=--max_old_space_size=2048
 	```
   必须要确认该系统环境变量已经生效了，可以用echo $NODE_OPTIONS来校验。验证扩展内存是否生效。
   ___
