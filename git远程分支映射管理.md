@@ -13,9 +13,9 @@
     
  解决方法
 
-  使用git remote prune origin 清理origin远程仓库映射
+      使用git remote prune origin 清理origin远程仓库映射
 
  其它相关
 
-  使用git remote update 更新映射
+      使用git remote update 更新映射
   
