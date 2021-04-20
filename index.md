@@ -8,3 +8,4 @@
 6. [用flex左固定右自适应问题](https://mouse-007.github.io/BUG/用flex左固定右自适应问题)
 7. [请求失败ERR_UNESCAPED_CHARACTERS](https://mouse-007.github.io/BUG/请求失败ERR_UNESCAPED_CHARACTERS)
 8. [锁定yarn或者npm的依赖版本](https://mouse-007.github.io/BUG/锁定yarn或者npm的依赖版本)
+9. [google浏览器上传文件的选择文件窗口卡死（未响应）](https://mouse-007.github.io/BUG/google浏览器上传文件的选择文件窗口卡死（未响应）)
